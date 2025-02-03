@@ -1,1 +1,0 @@
-# wafuu_slide_puzzle_privacy_policy
