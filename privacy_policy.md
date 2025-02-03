@@ -62,4 +62,3 @@
 
 このプライバシーポリシーページは、[App Privacy Policy Generatorによって生成されました。](https://app-privacy-policy-generator.nisrulz.com/)
 
-このプライバシーポリシーを追加して
